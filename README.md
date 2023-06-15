@@ -1,3 +1,4 @@
+# MaggieCoin
 Hello, welcome to Maggie Coin- an amateur Python 3 program which acts as a reward system that can be used by parents with young children. Uses Google Drive API to store data (passwords are encrypted).
 
 General Features:
